@@ -114,7 +114,7 @@ int main() {
     }
 */
 
-// Coutint sort Code 2
+// Couting sort Code 2
 /*
 #include <iostream>
 using namespace std;
